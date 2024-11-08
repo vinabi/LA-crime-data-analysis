@@ -87,7 +87,7 @@ This project analyzes a dataset of crime incidents, focusing on identifying patt
    git clone https://github.com/vinabi/LA-crime-data-analysis.git
 
 ### 🚀 Usage
-Prepare your dataset by adding it to the root folder.
-Run each analysis script or use crime_analysis.ipynb for a Jupyter Notebook version with step-by-step code.
-View visualizations to explore patterns and trends.
+- Prepare your dataset by adding it to the root folder.
+- Run each analysis script or use ```crime_analysis.ipynb``` for a Jupyter Notebook version with step-by-step code.
+- View visualizations to explore patterns and trends.
 
