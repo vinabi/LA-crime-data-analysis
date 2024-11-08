@@ -13,8 +13,6 @@
 - [Technologies Used](#-technologies-used)
 - [Setup & Installation](#-setup--installation)
 - [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -87,3 +85,9 @@ This project analyzes a dataset of crime incidents, focusing on identifying patt
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/vinabi/LA-crime-data-analysis.git
+
+### 🚀 Usage
+Prepare your dataset by adding it to the root folder.
+Run each analysis script or use crime_analysis.ipynb for a Jupyter Notebook version with step-by-step code.
+View visualizations to explore patterns and trends.
+
