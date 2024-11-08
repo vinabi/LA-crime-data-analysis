@@ -22,8 +22,7 @@ This project analyzes a dataset of crime incidents, focusing on identifying patt
 ---
 
 ## 📂 Dataset Information
-- **Source:** Public crime records 
-- **Link:** https://projects.datacamp.com/projects/1876
+- **Source:** Public crime records | Datacamp > projects > 1876
 - **Features:**
   - `Area Name` – Name of the area where the crime occurred
   - `Crm Cd Desc` – Description of the crime committed
